@@ -1,0 +1,22 @@
+.red {
+    background-color: rgb(218, 89, 89);
+}
+
+.small {
+    font-size: medium;
+}
+
+.large {
+    font-size: x-large;
+}
+
+#number2 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#number4 {
+    font-weight: bold;
+    background-color: aquamarine;
+    font-size: xx-large;
+}
